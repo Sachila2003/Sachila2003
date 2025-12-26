@@ -38,9 +38,9 @@ I am a results-driven Software Engineer with a deep passion for building scalabl
 ### 🔗 Connect & Follow
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sachila-geeth/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.facebook.com/sachila.geeth" target="blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://www.instagram.com/sachila_geeth" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sachila-geeth-094576344/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.facebook.com/share/1D45HqeUav/?mibextid=wwXIfr" target="blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.instagram.com/_the.sachi_?igsh=MWkxZ281ajBwa2JoOA%3D%3D&utm_source=qr" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://sachilageeth.dev" target="blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
