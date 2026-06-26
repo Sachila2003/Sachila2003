@@ -12,7 +12,7 @@ I am a results-driven Software Engineer with a deep passion for building scalabl
 - 📱 Mobile App Developer using **React Native**.
 - 🏢 Currently working as a **Full-Stack Developer** at **Fullstack Craft**.
 - 🌐 Explore my work: [sachilageeth.dev](https://sachilageeth.dev)
-- ✉️ Contact me: [sachilageeth@gmail.com](mailto:sachilageeth@gmail.com)
+- ✉️ Contact me: [sachilageeth@gmail.com](mailto:sachilageeth1@gmail.com)
 
 ---
 
