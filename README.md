@@ -102,8 +102,8 @@ Companies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sachila2003&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000&title_color=00c8ff&icon_color=ff3da6&text_color=ffffff&rank_icon=github&cache_seconds=86400" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachila2003&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000&title_color=00c8ff&text_color=ffffff&langs_count=8&cache_seconds=86400" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Sachila2003&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000&title_color=00c8ff&icon_color=ff3da6&text_color=ffffff&rank_icon=github&cache_seconds=86400" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sachila2003&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000&title_color=00c8ff&text_color=ffffff&langs_count=8&cache_seconds=86400" height="170"/>
 
 <br/>
 
@@ -123,7 +123,7 @@ Companies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sachila2003&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7" width="100%"/>
+<img src="[https://github-profile-trophy-fork-two.vercel.app/?username=Sachila2003&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7](https://github-profile-trophy-fork-two.vercel.app/?username=Sachila2003&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7)" width="100%"/>
 
 </div>
 
