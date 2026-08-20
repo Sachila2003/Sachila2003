@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,50:7850ff,100:ff3da6&height=200&section=header&text=Sachila%20Geeth&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Associate%20Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,50:7850ff,100:ff3da6&height=220&section=header&text=Sachila%20Geeth&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Associate%20Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=55&descSize=17&animation=fadeIn" width="100%"/>
+
+<a href="https://sachilageeth.dev">
+  <img src="https://img.shields.io/badge/Portfolio-sachilageeth.dev-00c8ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
 </div>
 
@@ -10,7 +14,7 @@
 
 ### 🏢 Currently @ Technovity FZC LLC — UAE 🇦🇪
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Associate+Software+Engineer+%F0%9F%8F%A2;Full-Stack+Developer+%E2%9A%A1;React.js+%7C+Next.js+%7C+Laravel;PostgreSQL+%7C+Stored+Procedures;React+Native+Mobile+Developer+%F0%9F%93%B1;1.5%2B+Years+%7C+10%2B+Production+Products)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Associate+Software+Engineer+%F0%9F%8F%A2;Full-Stack+Developer+%E2%9A%A1;React.js+%7C+Next.js+%7C+Laravel;PostgreSQL+%7C+Stored+Procedures;React+Native+Mobile+Developer+%F0%9F%93%B1;1.5%2B+Years+%7C+10%2B+Production+Products" alt="Typing SVG" />
 
 </div>
 
@@ -71,21 +75,45 @@ Experience : 1.5+ Years Industry | 10+ Production Products | 50+ Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sachila2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8ff&icon_color=7850ff&text_color=ffffff&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sachila2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8ff&icon_color=7850ff&text_color=ffffff&rank_icon=github&cache_seconds=86400" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachila2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8ff&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachila2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8ff&text_color=ffffff&cache_seconds=86400" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sachila2003&theme=tokyonight&hide_border=true&background=0d1117&ring=00c8ff&fire=ff3da6&currStreakLabel=7850ff" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=Sachila2003&theme=tokyonight&hide_border=true&background=0d1117&ring=00c8ff&fire=ff3da6&currStreakLabel=7850ff" width="70%"/>
 
 </div>
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachila2003&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c8ff&line=7850ff&point=ff3da6" width="100%"/>
+
+</div>
+
+> 💡 **Note:** GitHub stats cards are rendered live by public services (Vercel/Demolab). If they don't load right away, refresh after a moment — the public instances occasionally hit rate limits during peak traffic.
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sachila2003/Sachila2003/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+<sup>⚙️ To enable this, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to a repo named after your username — see setup note at the bottom.</sup>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sachila2003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%"/>
 
 </div>
 
@@ -108,6 +136,8 @@ Experience : 1.5+ Years Industry | 10+ Production Products | 50+ Projects
 <div align="center">
 
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/sachilageeth)
+
+<img src="https://komarev.com/ghpvc/?username=Sachila2003&label=Profile%20Views&color=7850ff&style=for-the-badge" />
 
 </div>
 
