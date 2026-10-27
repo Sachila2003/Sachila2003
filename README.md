@@ -102,16 +102,28 @@ Companies
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Sachila2003&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000&title_color=00c8ff&icon_color=ff3da6&text_color=ffffff&rank_icon=github&cache_seconds=86400" height="170"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sachila2003&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000&title_color=00c8ff&text_color=ffffff&langs_count=8&cache_seconds=86400" height="170"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Sachila2003&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000&title_color=00c8ff&icon_color=ff3da6&text_color=ffffff&rank_icon=github&cache_seconds=86400">
+  <img src="https://github-stats-extended.vercel.app/api?username=Sachila2003&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=d6249f&text_color=24292f&rank_icon=github&cache_seconds=86400" height="170"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Sachila2003&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000&title_color=00c8ff&text_color=ffffff&langs_count=8&cache_seconds=86400">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sachila2003&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=24292f&langs_count=8&cache_seconds=86400" height="170"/>
+</picture>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Sachila2003&theme=highcontrast&hide_border=true&background=00000000&ring=00c8ff&fire=ff3da6&currStreakLabel=7850ff" width="65%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sachila2003&theme=highcontrast&hide_border=true&background=00000000&ring=00c8ff&fire=ff3da6&currStreakLabel=7850ff">
+  <img src="https://streak-stats.demolab.com?user=Sachila2003&hide_border=true&background=00000000&ring=0969da&fire=ff3da6&currStreakLabel=7850ff&currStreakNum=24292f&sideNums=24292f&sideLabels=57606a&dates=57606a&stroke=d0d7de" width="65%"/>
+</picture>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachila2003&theme=react-dark&hide_border=true&bg_color=00000000&color=00c8ff&line=7850ff&point=ff3da6&area=true" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sachila2003&theme=react-dark&hide_border=true&bg_color=00000000&color=00c8ff&line=7850ff&point=ff3da6&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachila2003&hide_border=true&bg_color=00000000&color=24292f&line=7850ff&point=ff3da6&area=true" width="100%"/>
+</picture>
 
 </div>
 
@@ -134,7 +146,10 @@ Companies
 <div align="center">
 
 <!--START_SECTION:waka-->
-<img src="https://raw.githubusercontent.com/Sachila2003/Sachila2003/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachila2003/Sachila2003/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Sachila2003/Sachila2003/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation"/>
+</picture>
 <!--END_SECTION:waka-->
 
 </div>
